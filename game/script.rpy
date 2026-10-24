@@ -22,7 +22,7 @@ init python:
     import string
     allowChars = string.ascii_letters + string.digits + " " + "'"
 
-    GEMINI_API_KEY = "AQ.Ab8RN6JDN4R570-2AC4lxIsSWof5b-2M6s2SoSi4UitUxt3Tbw"
+    GEMINI_API_KEY = "KEY HERE"
     
     def ask_gemma_ai(player_input):
         system_instruction = (
